@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-
 <html lang="en-CA">
 
 <head>
-  <title>Personal Website</title>
+  <title>Sal Coombs</title>
 
   <link rel="stylesheet" href="common.blocks/button/button.css">
   <link rel="stylesheet" href="common.blocks/navigator/navigator.css">
+  <link rel="stylesheet" href="common.blocks/navigator/__element/navigator__element.css">
+  <link rel="stylesheet" href="common.blocks/navigator/__link/navigator__link.css">
   <link rel="stylesheet" href="general.styles/styles.css">
 
   <meta charset="UTF-8">
@@ -15,13 +16,22 @@
   <meta name="description" content="My personal online portfolio.">
 </head>
     
-<body class="body">
-  <nav class="navigator">
-    <ul>
-      <li><a href="https://www.brother.ca/en/">Bruh Minion</a></li>
-      <li><a href="#">Hello</a></li>
-      <li><a href="#">Very nice</a></li>
-      <li><a href="#">About Me</a></li>
+<body>
+
+  <nav>
+    <ul class="navigator">
+      <li class="navigator__element">
+        <a class="navigator__link" href="#">About Me</a>
+      </li>
+      <li class="navigator__element">
+        <a class="navigator__link" href="#">Projects</a>
+      </li>
+      <li class="navigator__element">
+        <a class="navigator__link" href="#">Music</a>
+      </li>
+      <li class="navigator__element">
+        <a class="navigator__link" href="#">Contact</a>
+      </li>
     </ul>
   </nav>
 

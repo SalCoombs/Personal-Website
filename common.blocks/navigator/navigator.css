@@ -1,5 +1,8 @@
+
+/* contains navigation links*/
 .navigator {
+    overflow: hidden;
     list-style-type: none;
-    display: block;
-    color: rgb(0, 0, 0);
+    margin: 0px;
+    padding: 0px;
 }

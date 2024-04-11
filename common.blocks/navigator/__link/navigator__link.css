@@ -1,0 +1,15 @@
+.navigator__link {
+    color: black;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 16px;
+}
+
+.navigator__link:hover {
+    background-color: rgb(255, 176, 30);
+}
+
+.navigator__link:visited {
+    color: black; 
+}
