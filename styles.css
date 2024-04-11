@@ -1,12 +1,9 @@
-
-body {
-    background-color: rgb(255, 241, 224);
+.navigator {
+    list-style-type: none;
+    display: block;
+    color: blue;
 }
 
-p {
-    color: black;
-}
-
-blockquote {
-    color: black;
+.navigator ul li{
+    float: left;
 }
