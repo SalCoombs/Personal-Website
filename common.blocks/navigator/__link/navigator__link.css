@@ -1,4 +1,5 @@
 .navigator__link {
+    height: inherit;
     color: black;
     display: block;
     text-align: center;

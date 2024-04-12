@@ -1,3 +1,4 @@
 .navigator__element {
     float: right;
-}
+    height: 100%;
+}   
