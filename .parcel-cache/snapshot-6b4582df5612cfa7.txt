@@ -21,7 +21,7 @@
 114C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\path.js133579650916969572 0
 89C:\Users\admin\source\repos\Personal-Website\node_modules\htmlnano\docs\package-lock.json133579650921570196 0
 66C:\Users\admin\source\repos\Personal-Website\node_modules\escalade133579650883466908 1
-49C:\Users\admin\source\repos\Personal-Website\dist133580234268048179 1
+49C:\Users\admin\source\repos\Personal-Website\dist133589820211808249 1
 105C:\Users\admin\source\repos\Personal-Website\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133579650943023512 0
 107C:\Users\admin\source\repos\Personal-Website\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133579650904573114 0
 55C:\Users\admin\source\repos\Personal-Website\README.txt133543171425418709 0
@@ -35,7 +35,7 @@
 92C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\graph\lib\shared-buffer.js133579650905772299 0
 86C:\Users\admin\source\repos\Personal-Website\node_modules\@swc\core\bindings\README.md133579650901565490 0
 134C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\font-weight.js133579650916056646 0
-58C:\Users\admin\source\repos\Personal-Website\common.blocks133573380457144512 1
+58C:\Users\admin\source\repos\Personal-Website\common.blocks133589818213937832 1
 81C:\Users\admin\source\repos\Personal-Website\node_modules\picocolors\package.json133579650872502019 0
 77C:\Users\admin\source\repos\Personal-Website\node_modules\stable\package.json133579650843598500 0
 78C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\packager-css133579650875435601 1
@@ -47,7 +47,7 @@
 120C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule133579650936329649 1
 84C:\Users\admin\source\repos\Personal-Website\node_modules\semver\functions\coerce.js133579650877369140 0
 76C:\Users\admin\source\repos\Personal-Website\node_modules\dotenv\lib\main.js133579650887066701 0
-54C:\Users\admin\source\repos\Personal-Website\index.htm133580238174617236 0
+54C:\Users\admin\source\repos\Personal-Website\index.htm133589814142467561 0
 133C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\background.js133579650899095695 0
 113C:\Users\admin\source\repos\Personal-Website\node_modules\css-select\node_modules\domutils\lib\esm\helpers.js.map133579650909582018 0
 126C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\inlineStyles.js133579650913369225 0
@@ -76,7 +76,7 @@
 83C:\Users\admin\source\repos\Personal-Website\node_modules\css-select\lib\compile.js133579650888166174 0
 115C:\Users\admin\source\repos\Personal-Website\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\font-face.js133579650941611951 0
 105C:\Users\admin\source\repos\Personal-Website\node_modules\@swc\helpers\src\_skip_first_generator_next.mjs133579650955088802 0
-54C:\Users\admin\source\repos\Personal-Website\index.css133580240046233554 0
+54C:\Users\admin\source\repos\Personal-Website\index.css133589819247688524 0
 89C:\Users\admin\source\repos\Personal-Website\node_modules\caniuse-lite\data\regions\GT.js133579650953611720 0
 67C:\Users\admin\source\repos\Personal-Website\node_modules\callsites133579650877073886 1
 113C:\Users\admin\source\repos\Personal-Website\node_modules\css-select\node_modules\domutils\lib\esm\traversal.d.ts133579650925176456 0
@@ -408,7 +408,7 @@
 62C:\Users\admin\source\repos\Personal-Website\node_modules\lmdb133579650940030308 1
 101C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133579650912533040 0
 74C:\Users\admin\source\repos\Personal-Website\node_modules\lmdb\SECURITY.md133579650939769980 0
-68C:\Users\admin\source\repos\Personal-Website\common.blocks\navigator133573486267914505 1
+68C:\Users\admin\source\repos\Personal-Website\common.blocks\navigator133589817374127926 1
 111C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\style.js133579650927608153 0
 67C:\Users\admin\source\repos\Personal-Website\node_modules\picomatch133579650895186266 1
 77C:\Users\admin\source\repos\Personal-Website\node_modules\color-name\index.js133579650863171402 0
@@ -5866,8 +5866,8 @@
 85C:\Users\admin\source\repos\Personal-Website\node_modules\.bin\update-browserslist-db133579650981715595 0
 89C:\Users\admin\source\repos\Personal-Website\node_modules\.bin\update-browserslist-db.ps1133579650981655619 0
 70C:\Users\admin\source\repos\Personal-Website\general.styles\styles.css133579648237139264 0
-59C:\Users\admin\source\repos\Personal-Website\dist\index.css133580234267876041 0
-63C:\Users\admin\source\repos\Personal-Website\dist\index.css.map133580234268048179 0
+59C:\Users\admin\source\repos\Personal-Website\dist\index.css133589820211428469 0
+63C:\Users\admin\source\repos\Personal-Website\dist\index.css.map133589820211778257 0
 78C:\Users\admin\source\repos\Personal-Website\common.blocks\navigator\__element133573495054378244 1
 101C:\Users\admin\source\repos\Personal-Website\common.blocks\navigator\__element\navigator__element.css133573547771588307 0
 84C:\Users\admin\source\repos\Personal-Website\common.blocks\navigator\__element\_type133573495465591670 1
