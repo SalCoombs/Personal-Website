@@ -1,4 +1,12 @@
-5873
+5874
+92C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\graph\lib\shared-buffer.js133579650905772299 0
+86C:\Users\admin\source\repos\Personal-Website\node_modules\@swc\core\bindings\README.md133579650901565490 0
+134C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\font-weight.js133579650916056646 0
+58C:\Users\admin\source\repos\Personal-Website\common.blocks133589818213937832 1
+81C:\Users\admin\source\repos\Personal-Website\node_modules\picocolors\package.json133579650872502019 0
+59C:\Users\admin\source\repos\Personal-Website\buildindex.bat133589827864145974 0
+88C:\Users\admin\source\repos\Personal-Website\node_modules\csso\node_modules\mdn-data\css133579650914759805 1
+72C:\Users\admin\source\repos\Personal-Website\node_modules\srcset\license133579650855168857 0
 104C:\Users\admin\source\repos\Personal-Website\node_modules\csso\node_modules\css-tree\lib\lexer\search.js133579650946099330 0
 106C:\Users\admin\source\repos\Personal-Website\node_modules\@swc\helpers\_\_array_without_holes\package.json133579650943477518 0
 59C:\Users\admin\source\repos\Personal-Website\general.styles133573363266557013 1
@@ -21,7 +29,7 @@
 114C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\path.js133579650916969572 0
 89C:\Users\admin\source\repos\Personal-Website\node_modules\htmlnano\docs\package-lock.json133579650921570196 0
 66C:\Users\admin\source\repos\Personal-Website\node_modules\escalade133579650883466908 1
-49C:\Users\admin\source\repos\Personal-Website\dist133589820211808249 1
+49C:\Users\admin\source\repos\Personal-Website\dist133589828926993396 1
 105C:\Users\admin\source\repos\Personal-Website\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133579650943023512 0
 107C:\Users\admin\source\repos\Personal-Website\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133579650904573114 0
 55C:\Users\admin\source\repos\Personal-Website\README.txt133543171425418709 0
@@ -32,11 +40,6 @@
 81C:\Users\admin\source\repos\Personal-Website\node_modules\semver\functions\cmp.js133579650872921785 0
 106C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data133579650914447172 1
 50C:\Users\admin\source\repos\Personal-Website\CNAME133491303122500265 0
-92C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\graph\lib\shared-buffer.js133579650905772299 0
-86C:\Users\admin\source\repos\Personal-Website\node_modules\@swc\core\bindings\README.md133579650901565490 0
-134C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\font-weight.js133579650916056646 0
-58C:\Users\admin\source\repos\Personal-Website\common.blocks133589818213937832 1
-81C:\Users\admin\source\repos\Personal-Website\node_modules\picocolors\package.json133579650872502019 0
 77C:\Users\admin\source\repos\Personal-Website\node_modules\stable\package.json133579650843598500 0
 78C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\packager-css133579650875435601 1
 98C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\core\test\PackagerRunner.test.js133579650934136657 0
@@ -47,7 +50,7 @@
 120C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule133579650936329649 1
 84C:\Users\admin\source\repos\Personal-Website\node_modules\semver\functions\coerce.js133579650877369140 0
 76C:\Users\admin\source\repos\Personal-Website\node_modules\dotenv\lib\main.js133579650887066701 0
-54C:\Users\admin\source\repos\Personal-Website\index.htm133589814142467561 0
+54C:\Users\admin\source\repos\Personal-Website\index.htm133589820558797312 0
 133C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\replace\property\background.js133579650899095695 0
 113C:\Users\admin\source\repos\Personal-Website\node_modules\css-select\node_modules\domutils\lib\esm\helpers.js.map133579650909582018 0
 126C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\inlineStyles.js133579650913369225 0
@@ -69,8 +72,8 @@
 122C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\attributes.js133579650873441496 0
 74C:\Users\admin\source\repos\Personal-Website\node_modules\timsort\index.js133579650874940626 0
 89C:\Users\admin\source\repos\Personal-Website\node_modules\caniuse-lite\data\regions\KE.js133579650957273432 0
-67C:\Users\admin\source\repos\Personal-Website\node_modules\type-fest133579650903376535 1
 89C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\utils\src\countLines.js133579650899604086 0
+67C:\Users\admin\source\repos\Personal-Website\node_modules\type-fest133579650903376535 1
 81C:\Users\admin\source\repos\Personal-Website\node_modules\js-yaml\lib\type\map.js133579650910050260 0
 94C:\Users\admin\source\repos\Personal-Website\node_modules\caniuse-lite\data\features\tls1-1.js133579650966234250 0
 83C:\Users\admin\source\repos\Personal-Website\node_modules\css-select\lib\compile.js133579650888166174 0
@@ -240,14 +243,14 @@
 63C:\Users\admin\source\repos\Personal-Website\node_modules\chalk133579650885555667 1
 84C:\Users\admin\source\repos\Personal-Website\node_modules\@swc\helpers\esm\_throw.js133579650941068847 0
 96C:\Users\admin\source\repos\Personal-Website\node_modules\caniuse-lite\data\features\css-sel2.js133579650945867796 0
+134C:\Users\admin\source\repos\Personal-Website\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\build-test.js133579650865756215 0
+65C:\Users\admin\source\repos\Personal-Website\node_modules\is-glob133579650872731893 1
 78C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\core\LICENSE133579650901933671 0
 70C:\Users\admin\source\repos\Personal-Website\node_modules\svgo\plugins133579650932913260 1
 80C:\Users\admin\source\repos\Personal-Website\node_modules\commander\CHANGELOG.md133579650887342987 0
 71C:\Users\admin\source\repos\Personal-Website\node_modules\dotenv-expand133579650883466908 1
 87C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\markdown-ansi\LICENSE133579650858008125 0
 65C:\Users\admin\source\repos\Personal-Website\node_modules\is-json133579650882587026 1
-134C:\Users\admin\source\repos\Personal-Website\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\build-test.js133579650865756215 0
-65C:\Users\admin\source\repos\Personal-Website\node_modules\is-glob133579650872731893 1
 79C:\Users\admin\source\repos\Personal-Website\node_modules\mdn-data\api\index.js133579650863465834 0
 91C:\Users\admin\source\repos\Personal-Website\node_modules\css-tree\lib\syntax\node\index.js133579650944234693 0
 82C:\Users\admin\source\repos\Personal-Website\node_modules\supports-color\readme.md133579650877278838 0
@@ -274,8 +277,8 @@
 89C:\Users\admin\source\repos\Personal-Website\node_modules\lmdb\util\set-optional-deps.cjs133579650931678619 0
 119C:\Users\admin\source\repos\Personal-Website\node_modules\csso\node_modules\css-tree\cjs\syntax\function\expression.cjs133579650916928286 0
 68C:\Users\admin\source\repos\Personal-Website\node_modules\color-name133579650873551426 1
-95C:\Users\admin\source\repos\Personal-Website\node_modules\postcss-value-parser\lib\stringify.js133579650872851824 0
 85C:\Users\admin\source\repos\Personal-Website\node_modules\supports-color\package.json133579650872781864 0
+95C:\Users\admin\source\repos\Personal-Website\node_modules\postcss-value-parser\lib\stringify.js133579650872851824 0
 122C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node133579650938031873 1
 67C:\Users\admin\source\repos\Personal-Website\node_modules\commander133579650896035782 1
 88C:\Users\admin\source\repos\Personal-Website\node_modules\lmdb\bin\download-prebuilds.js133579650937465977 0
@@ -688,7 +691,7 @@
 89C:\Users\admin\source\repos\Personal-Website\node_modules\caniuse-lite\data\regions\FM.js133579650951388802 0
 71C:\Users\admin\source\repos\Personal-Website\node_modules\lmdb\index.js133579650937545939 0
 92C:\Users\admin\source\repos\Personal-Website\node_modules\svgo\plugins\convertShapeToPath.js133579650924847737 0
-123C:\Users\admin\source\repos\Personal-Website\common.blocks\navigator\__element\_type\_home\navigator__element_type_home.css133573522386953820 0
+123C:\Users\admin\source\repos\Personal-Website\common.blocks\navigator\__element\_type\_home\navigator__element_type_home.css133589826937110353 0
 84C:\Users\admin\source\repos\Personal-Website\node_modules\utility-types\package.json133579650885025959 0
 114C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\coa.js133579650902158279 0
 75C:\Users\admin\source\repos\Personal-Website\node_modules\csso\lib\usage.js133579650932495363 0
@@ -1332,7 +1335,6 @@
 89C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\core\src\BundleGraph.js133579650919820718 0
 75C:\Users\admin\source\repos\Personal-Website\node_modules\srcset\index.d.ts133579650877369140 0
 74C:\Users\admin\source\repos\Personal-Website\node_modules\semver\README.md133579650920440702 0
-72C:\Users\admin\source\repos\Personal-Website\node_modules\srcset\license133579650855168857 0
 86C:\Users\admin\source\repos\Personal-Website\node_modules\semver\functions\rcompare.js133579650914976620 0
 70C:\Users\admin\source\repos\Personal-Website\node_modules\mdn-data\css133579650914976620 1
 92C:\Users\admin\source\repos\Personal-Website\node_modules\node-addon-api\tools\check-napi.js133579650901565490 0
@@ -1928,10 +1930,10 @@
 130C:\Users\admin\source\repos\Personal-Website\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test133579650981695603 0
 126C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Rule.js133579650934894556 0
 134C:\Users\admin\source\repos\Personal-Website\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133579650981675621 0
+79C:\Users\admin\source\repos\Personal-Website\node_modules\is-json\test\index.js133579650884906031 0
 100C:\Users\admin\source\repos\Personal-Website\node_modules\@swc\helpers\_\_initializer_warning_helper133579650948550706 1
 79C:\Users\admin\source\repos\Personal-Website\node_modules\msgpackr\benchmark.md133579650925215493 0
 106C:\Users\admin\source\repos\Personal-Website\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133579650916571053 0
-79C:\Users\admin\source\repos\Personal-Website\node_modules\is-json\test\index.js133579650884906031 0
 71C:\Users\admin\source\repos\Personal-Website\node_modules\msgpackr\dist133579650924547912 1
 113C:\Users\admin\source\repos\Personal-Website\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\020-usage.md133579650925493479 0
 100C:\Users\admin\source\repos\Personal-Website\node_modules\@babel\helper-validator-identifier\LICENSE133579650857818235 0
@@ -2766,7 +2768,6 @@
 84C:\Users\admin\source\repos\Personal-Website\node_modules\csso\node_modules\mdn-data133579650915181151 1
 88C:\Users\admin\source\repos\Personal-Website\node_modules\csso\node_modules\mdn-data\api133579650902773689 1
 97C:\Users\admin\source\repos\Personal-Website\node_modules\csso\node_modules\mdn-data\CHANGELOG.md133579650914572540 0
-88C:\Users\admin\source\repos\Personal-Website\node_modules\csso\node_modules\mdn-data\css133579650914759805 1
 89C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\reporter-tracer\LICENSE133579650857668320 0
 93C:\Users\admin\source\repos\Personal-Website\node_modules\csso\node_modules\mdn-data\index.js133579650876561374 0
 97C:\Users\admin\source\repos\Personal-Website\node_modules\@swc\helpers\cjs\_iterable_to_array.cjs133579650923911294 0
@@ -3238,8 +3239,8 @@
 102C:\Users\admin\source\repos\Personal-Website\node_modules\caniuse-lite\data\features\css-appearance.js133579650937122521 0
 129C:\Users\admin\source\repos\Personal-Website\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Raw.js133579650934866279 0
 100C:\Users\admin\source\repos\Personal-Website\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133579650945460643 0
-92C:\Users\admin\source\repos\Personal-Website\node_modules\css-tree\cjs\syntax\node\Ratio.cjs133579650933780156 0
 92C:\Users\admin\source\repos\Personal-Website\node_modules\css-tree\lib\syntax\node\Number.js133579650945917766 0
+92C:\Users\admin\source\repos\Personal-Website\node_modules\css-tree\cjs\syntax\node\Ratio.cjs133579650933780156 0
 102C:\Users\admin\source\repos\Personal-Website\node_modules\caniuse-lite\data\features\pointer-events.js133579650962855655 0
 97C:\Users\admin\source\repos\Personal-Website\node_modules\css-tree\lib\syntax\node\Parentheses.js133579650946109324 0
 96C:\Users\admin\source\repos\Personal-Website\node_modules\css-tree\lib\syntax\node\Percentage.js133579650946392692 0
@@ -5866,8 +5867,8 @@
 85C:\Users\admin\source\repos\Personal-Website\node_modules\.bin\update-browserslist-db133579650981715595 0
 89C:\Users\admin\source\repos\Personal-Website\node_modules\.bin\update-browserslist-db.ps1133579650981655619 0
 70C:\Users\admin\source\repos\Personal-Website\general.styles\styles.css133579648237139264 0
-59C:\Users\admin\source\repos\Personal-Website\dist\index.css133589820211428469 0
-63C:\Users\admin\source\repos\Personal-Website\dist\index.css.map133589820211778257 0
+59C:\Users\admin\source\repos\Personal-Website\dist\index.css133589828926733549 0
+63C:\Users\admin\source\repos\Personal-Website\dist\index.css.map133589828926963412 0
 78C:\Users\admin\source\repos\Personal-Website\common.blocks\navigator\__element133573495054378244 1
 101C:\Users\admin\source\repos\Personal-Website\common.blocks\navigator\__element\navigator__element.css133573547771588307 0
 84C:\Users\admin\source\repos\Personal-Website\common.blocks\navigator\__element\_type133573495465591670 1
