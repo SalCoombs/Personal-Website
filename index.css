@@ -1,6 +1,0 @@
-/* Import css file */
-@import "./common.blocks/navigator/navigator.css";
-@import "./common.blocks/navigator/__element/navigator__element.css";
-@import "./common.blocks/navigator/__element/_type/_home/navigator__element_type_home.css";
-@import "./common.blocks/navigator/__link/navigator__link.css";
-@import "./common.blocks/button/button.css";

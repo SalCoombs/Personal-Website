@@ -1,1 +1,0 @@
-npx parcel build index.css
