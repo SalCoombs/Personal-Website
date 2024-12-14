@@ -1,6 +1,10 @@
 :root {
+  /* Website Colours */
   --colour-background-light: #ffe5ac;
-  --colour-background-dark: #fdcc8c;
+  --colour-background-dark: #fcb353;
+
+  /* Website font sizes */
+  --font-size-default: 20px;
 }
 
 /* CSS reset - Prevents user agent style sheet shenanigans */
@@ -10,12 +14,60 @@
 }
 
 body {
-  background-color: var(--colour-background-light);
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+.background {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    var(--colour-background-light),
+    var(--colour-background-dark)
+  );
 }
 
 footer {
-  position: absolute;
+  padding: 0.5em;
   bottom: 0;
+}
+
+p {
+  padding: 3px;
+  font-size: 1rem;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  margin: 0.5em 0.3em 0.3em;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  margin: 0.5em 0.3em 0.3em;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h3 {
+}
+
+hr {
+}
+
+/* Colours */
+.color-bg-light {
+  background-color: var(--colour-background-light);
+}
+
+.color-bg-dark {
+  background-color: var(--colour-background-dark);
 }
 
 /* Google Fonts */
