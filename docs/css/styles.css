@@ -1,7 +1,7 @@
 :root {
   /* Website Colours */
   --colour-background-light: #ffe5ac;
-  --colour-background-dark: #fcb353;
+  --colour-background-dark: #fdad44;
 
   /* Website font sizes */
   --font-size-default: 20px;
@@ -59,6 +59,7 @@ h3 {
 }
 
 hr {
+  color: var(--colour-background-dark);
 }
 
 /* Colours */
