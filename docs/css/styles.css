@@ -1,7 +1,7 @@
 :root {
   /* Website Colours */
-  --colour-background-light: #ffe5ac;
-  --colour-background-dark: #fdad44;
+  --color-background-light: #ffe5ac;
+  --color-background-dark: #fdad44;
 
   /* Website font sizes */
   --font-size-default: 20px;
@@ -11,65 +11,77 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
   margin: 0;
   padding: 0;
   height: 100vh;
-}
-
-.background {
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(
-    var(--colour-background-light),
-    var(--colour-background-dark)
-  );
+  display: flex;
+  flex-direction: column;
 }
 
 footer {
   padding: 0.5em;
-  position: absolute;
-  bottom: 0;
+  width: 100%;
+}
+
+ul {
+  padding-left: 2rem;
+  list-style: circle;
 }
 
 p {
-  padding: 3px;
+  padding: 0.5rem;
   font-size: 1rem;
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
   font-style: normal;
 }
 
-h1 {
-  margin: 0.5em 0.3em 0.3em;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 2rem 0.8rem 0.3rem 0.8rem;
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
   font-style: normal;
-}
-
-h2 {
-  margin: 0.5em 0.3em 0.3em;
-  font-family: "Libre Baskerville", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-h3 {
 }
 
 hr {
-  color: var(--colour-background-dark);
+  border: 1px solid #000000;
+  width: 50%;
+}
+
+/* Classes */
+
+.title {
+  left: 100px;
+}
+
+.background {
+  width: 100%;
+}
+
+.background-color--gradient {
+  background: linear-gradient(
+    var(--color-background-light),
+    var(--color-background-dark)
+  );
 }
 
 /* Colours */
+
 .color-bg-light {
-  background-color: var(--colour-background-light);
+  background-color: var(--color-background-light);
 }
 
 .color-bg-dark {
-  background-color: var(--colour-background-dark);
+  background-color: var(--color-background-dark);
 }
 
 /* Google Fonts */
