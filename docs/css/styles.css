@@ -23,7 +23,6 @@ body {
 }
 
 footer {
-  padding: 0.5em;
   width: 100%;
 }
 
@@ -33,7 +32,7 @@ ul {
 }
 
 p {
-  padding: 0.5rem;
+  padding: 0.2rem 0.8rem;
   font-size: 1rem;
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
@@ -60,7 +59,8 @@ hr {
 /* Classes */
 
 .title {
-  left: 100px;
+  display: grid;
+  place-items: center;
 }
 
 .background {
