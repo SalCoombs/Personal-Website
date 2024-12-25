@@ -1,5 +1,5 @@
 // Get webgl object for the canvas
-let canvas = document.querySelector("#c");
+let canvas = document.querySelector("#my-canvas");
 let gl = canvas.getContext("webgl");
 if (!gl) {
   // Fail
