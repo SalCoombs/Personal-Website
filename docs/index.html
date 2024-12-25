@@ -64,19 +64,36 @@
       <p id="update-version">Update: 1.6</p>
     </footer>
 
-    <canvas id="my-canvas"></canvas>
+    <canvas id="my-canvas" class="display"></canvas>
 
     <!-- Scripts -->
-    <script
-      id="vertex-shader-2d"
-      type="notjs"
-      src="webgl/vertex-shader.glsl"
-    ></script>
-    <script
-      id="vertex-shader-2d"
-      type="notjs"
-      src="webgl/vertex-shader.glsl"
-    ></script>
+    <script id="vertex-shader-2d" type="notjs">
+      // Vertex Shader
+
+      // An attribute will receive data from a buffer
+      attribute vec4 a_position;
+
+      // all shaders have a main function
+      void main() {
+
+          // gl_position is a speacial variable a vertes shader
+          // is responsible for setting
+          gl_Position = a_position;
+      }
+    </script>
+    <script id="fragment-shader-2d" type="notjs">
+      // Fragment shader
+
+      // fragment shaders don't have a default precision so we need
+      // to pick one. "mediump" is a good default. It means "medium precision"
+      precision mediump float;
+
+      void main() {
+          // gl_FragColor is a special variable a fragment shader
+          // is responsible for setting
+          gl_FragColor = vec4(1, 0, 0.5, 1);
+      }
+    </script>
     <script src="index.js"></script>
   </body>
 </html>
