@@ -46,6 +46,7 @@ h6 {
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
   font-style: normal;
+  display: inline-block;
 }
 
 hr {
@@ -62,6 +63,17 @@ a {
 }
 
 /* Classes */
+.moveable {
+  color: #000;
+}
+
+.moveable:hover {
+  color: green;
+}
+
+.is-being-moved {
+  position: absolute;
+}
 
 .title {
   display: grid;
