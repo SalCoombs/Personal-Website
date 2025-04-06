@@ -1,3 +1,13 @@
+let hello = 1;
+
+for (i = 0; i < 10; i++) {
+  hello += i;
+}
+
+document.addEventListener(onclick, () => {
+  alert("Button clicked. Your number is: " + hello);
+});
+
 const game_input = document.getElementById("game-input");
 const game_text = document.getElementById("game-text");
 
