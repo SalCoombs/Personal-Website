@@ -1,0 +1,41 @@
+footer {
+  width: 100%;
+}
+
+ul {
+  padding-left: 2rem;
+  list-style: circle;
+}
+
+p {
+  padding: 0.2rem 0.8rem;
+  font-size: 1rem;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 2rem 0.8rem 0.3rem 0.8rem;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+hr {
+  border: 1px solid #000000;
+  width: 50%;
+}
+
+svg {
+  background-color: aliceblue;
+}
+
+a {
+  cursor: pointer;
+}
