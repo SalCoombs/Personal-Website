@@ -15,10 +15,6 @@
   cursor: default;
 }
 
-body {
-  height: 100vh;
-}
-
 footer {
   width: 100%;
 }
@@ -62,7 +58,6 @@ a {
 }
 
 /* Classes */
-
 .title {
   display: grid;
   place-items: center;
@@ -79,11 +74,16 @@ a {
   );
 }
 
-.display {
-  width: 100%;
+.flex-container {
+  display: flex;
 }
-/* Colours */
 
+.flex-item {
+  background-color: aquamarine;
+  display: inline;
+}
+
+/* Colours */
 .color-bg-light {
   background-color: var(--color-background-light);
 }

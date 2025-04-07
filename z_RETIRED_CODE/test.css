@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.a {
+  padding: 10px;
+}
+
+.b {
+  padding: 30px;
+  background-color: gold;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-item {
+  display: inline;
+  padding: 0.8rem;
+  background-color: blue;
+}
