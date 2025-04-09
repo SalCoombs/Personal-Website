@@ -1,17 +1,102 @@
-/* Error: Undefined variable.
- *    ,
- * 28 |     $background-color--light,
- *    |     ^^^^^^^^^^^^^^^^^^^^^^^^
- *    '
- *   sass\main.scss 28:5  root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: "Error: Undefined variable.\a    \2577 \a 28 \2502      $background-color--light,\d\a    \2502      ^^^^^^^^^^^^^^^^^^^^^^^^\a    \2575 \a   sass\\main.scss 28:5  root stylesheet";
+/* Colours */
+.color-bg-light {
+  background-color: #ffe5ac;
 }
+
+.color-bg-dark {
+  background-color: #fdad44;
+}
+
+footer {
+  width: 100%;
+}
+
+ul {
+  padding-left: 2rem;
+  list-style: circle;
+}
+
+p {
+  padding: 0.2rem 0.8rem;
+  font-size: 1rem;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 2rem 0.8rem 0.3rem 0.8rem;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+hr {
+  border: 1px solid #000000;
+  width: 50%;
+}
+
+svg {
+  background-color: aliceblue;
+}
+
+a {
+  cursor: pointer;
+}
+
+/* Google Fonts */
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* CSS reset - Prevents user agent style sheet shenanigans */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  cursor: default;
+}
+
+/* Classes */
+.title {
+  display: grid;
+  place-items: center;
+}
+
+.background {
+  width: 100%;
+}
+
+.background-color--gradient {
+  background: linear-gradient(#ffe5ac, #fdad44);
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-item {
+  background-color: aquamarine;
+  display: inline;
+}
+
+/*# sourceMappingURL=style.css.map */

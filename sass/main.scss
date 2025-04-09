@@ -2,9 +2,6 @@
 @use "default-styles";
 @use "fonts";
 
-// Text
-$font-size--default: 20px;
-
 /* CSS reset - Prevents user agent style sheet shenanigans */
 * {
   margin: 0;
@@ -25,8 +22,8 @@ $font-size--default: 20px;
 
 .background-color--gradient {
   background: linear-gradient(
-    $background-color--light,
-    $background-color--dark
+    colors.$background-color--light,
+    colors.$background-color--dark
   );
 }
 
@@ -37,8 +34,4 @@ $font-size--default: 20px;
 .flex-item {
   background-color: aquamarine;
   display: inline;
-}
-
-.new-class {
-  display: grid;
 }
