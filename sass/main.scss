@@ -1,37 +1,22 @@
 @use "colors";
 @use "default-styles";
 @use "fonts";
+@use "classes";
 
 /* CSS reset - Prevents user agent style sheet shenanigans */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul {
   cursor: default;
-}
-
-/* Classes */
-.title {
-  display: grid;
-  place-items: center;
-}
-
-.background {
-  width: 100%;
-}
-
-.background-color--gradient {
-  background: linear-gradient(
-    colors.$background-color--light,
-    colors.$background-color--dark
-  );
-}
-
-.flex-container {
-  display: flex;
-}
-
-.flex-item {
-  background-color: aquamarine;
-  display: inline;
 }
