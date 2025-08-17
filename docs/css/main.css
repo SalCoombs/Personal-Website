@@ -69,6 +69,20 @@
   background-color: rgba(0, 0, 255, 0.3);
 }
 
+.heading {
+  padding: 0.5rem 1rem;
+}
+
+.blurb {
+  padding: 0.3rem 1rem;
+}
+
+.media_display {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 /* CSS reset - Prevents user agent style sheet shenanigans */
 * {
   margin: 0;
@@ -85,6 +99,21 @@ h5,
 h6,
 ul {
   cursor: default;
+}
+
+ul {
+  padding: 0.5rem 2rem;
+}
+
+hr {
+  border-color: black;
+  margin: 10px 20px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 /*# sourceMappingURL=main.css.map */

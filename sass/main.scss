@@ -20,3 +20,18 @@ h6,
 ul {
   cursor: default;
 }
+
+ul {
+  padding: 0.5rem 2rem;
+}
+
+hr {
+  border-color: black;
+  margin: 10px 20px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
